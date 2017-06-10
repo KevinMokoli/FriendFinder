@@ -1,6 +1,6 @@
 # FriendFinder
 
-Week of 13 HW: Friend Finder - Node and Express Servers
+Friend Finder - Node and Express Servers
 
 Overview
 
